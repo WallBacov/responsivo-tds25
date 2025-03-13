@@ -1,8 +1,9 @@
-body{
+body {
     background-color: #f4f4f4;
 }
-@media (max-width:480px){
-    body{
-    background-color: red
+
+@media (max-width:480px) {
+    body {
+        background-color: red;
     }
 }
